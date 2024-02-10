@@ -1,0 +1,21 @@
+.card {
+    background-color: #121212 !important;
+}
+
+.card-body a {
+    border: 2px solid #f7d354;
+    background-color: #000;
+}
+
+.card-body a:hover {
+    background-color: #f7d354;
+    color: #000 !important;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.card-text svg {
+    margin-right: 5px;
+}
